@@ -1,6 +1,6 @@
-#Tic Tac Toe
+# Tic Tac Toe
 
 Command line version of the classic game, Tic Tac Toe
 
--usage
+- usage
 >\> python tictactoe.py
